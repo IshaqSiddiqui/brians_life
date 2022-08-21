@@ -26,18 +26,28 @@ And he’s sure whatever fancy gizmos he needs, his uncle will provide.
 
 From boring to less boring 
 
-Okta Users
-Adding users into Okta via csv 
-Adding users into Okta via Application 
-Adding users in Okta via AD
+|| Okta Users || 
 
-User experience 
-Configuring SSO 
-Security
-Configuring MFA 
-Enabling provisoning and de-pro
-Behavioural detection 
-Networks
+Adding users into Okta via csv, 
+
+Adding users into Okta via Application, 
+
+Adding users in Okta via AD, 
+
+|| User experience || 
+
+Configuring SSO, 
+
+Security,
+
+Configuring MFA, 
+
+Enabling provisoning and de-pro, 
+
+Behavioural detection,
+
+Networks, 
+
 Different identity providers 
 
 
